@@ -7,6 +7,13 @@ So I was start to take some other courses as I grow up: Graphic Designer at IAC,
 Sr VB Programmer at IBM, System Analyst at ESBA, Java 2EE Programmer at UTN and recently Fullstack Developer at HENRY.
 
 ### My firsts desktop Developments:
+
+* Jumpnet : Computer Hardware Store
+* La Casona: Restaurant
+* La Tablita: Fast Food Store
+* Spa Urbano: Spa
+* Netbuster: Cyber cafe
+
 They were build it in Visual Basic, making use of MS Access to store data. They were all Sales-point related, personalized cash flow managers according 
 to Clients request, making use of EPSON / HASAR API's to print receives according to Goberment taxes regulations.
 
