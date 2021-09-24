@@ -21,6 +21,9 @@ to client use time and perform cash flows & payments. It was also builded in Vis
 Having completed HENRY Labs course, a very intensive learning consisting in 500+ hours of coding & pair-programming; I was trained in Algorithms, Data structures, 
 HTML, CSS, Less, Styled components, NPM, NodeJS, JSON, Ajax, Modules, React, Class & Functional components, Form validations, Promisses, Async-await, Redux, Hooks, Express, Sequelize, Git & Scrum; I've was ready to start developing Web SPA's, like: 
 
+![image](https://user-images.githubusercontent.com/82456534/134709936-d90ad867-9583-4787-86b0-abc9af4d5543.png)
+* A Movies SPA that consumes data from www.omdbapi.com , delivering data to final user using React and styling the views with CSS Styled component
+
 
 
 
