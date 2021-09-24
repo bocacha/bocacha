@@ -11,6 +11,16 @@ They were build it in Visual Basic, making use of MS Access to store data. They 
 to Clients request
 
 
+![image](https://user-images.githubusercontent.com/82456534/134707410-5b47cf42-fd10-44ca-a46e-478a7e21f5ac.png)
+
+One of them was developed to manage an Cyber Cafe, consist in one server side App that controls 22 Computer clients, lock/unlock clients, calculate rates according 
+to client use time and perform cash flows & payments. It was also builded in Visual Basic / Access and make use of Winsock library.
+
+### Web Developments:
+
+Having completed HENRY Labs course, a very intensive learning consisting in 500+ hours of coding & pair-programming; I was trained in Algorithms, Data structures, 
+HTML, CSS, Less, Styled components, NPM, NodeJS, JSON, Ajax, Modules, React, Class & Functional components, Form validations, Promisses, Async-await, Redux, Hooks, Express, Sequelize, Git & Scrum; I've was ready to start developing Web SPA's, like: 
+
 
 
 
