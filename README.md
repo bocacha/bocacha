@@ -8,10 +8,11 @@ Sr VB Programmer at IBM, System Analyst at ESBA, Java 2EE Programmer at UTN and 
 
 ### My firsts desktop Developments:
 They were build it in Visual Basic, making use of MS Access to store data. They were all Sales-point related, personalized cash flow managers according 
-to Clients request
+to Clients request, making use of EPSON / HASAR API's to print receives according to Goberment taxes regulations.
+
+![image](https://user-images.githubusercontent.com/82456534/134711870-9f37795b-ff15-49ed-b513-2fa99606904c.png)
 
 
-![image](https://user-images.githubusercontent.com/82456534/134707410-5b47cf42-fd10-44ca-a46e-478a7e21f5ac.png)
 
 One of them was developed to manage an Cyber Cafe, consist in one server side App that controls 22 Computer clients, lock/unlock clients, calculate rates according 
 to client use time and perform cash flows & payments. It was also builded in Visual Basic / Access and make use of Winsock library.
