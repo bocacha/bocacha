@@ -22,7 +22,12 @@ Having completed HENRY Labs course, a very intensive learning consisting in 500+
 HTML, CSS, Less, Styled components, NPM, NodeJS, JSON, Ajax, Modules, React, Class & Functional components, Form validations, Promisses, Async-await, Redux, Hooks, Express, Sequelize, Git & Scrum; I've was ready to start developing Web SPA's, like: 
 
 ![image](https://user-images.githubusercontent.com/82456534/134709936-d90ad867-9583-4787-86b0-abc9af4d5543.png)
-* A Movies SPA that consumes data from www.omdbapi.com , delivering data to final user using React and styling the views with CSS Styled component
+* A Movies SPA that consumes data from www.omdbapi.com , delivering data to final user using React and styling the views with CSS Styled component.
+
+
+![image](https://user-images.githubusercontent.com/82456534/134711276-07675fbf-cd9a-4deb-9354-5b120d645b49.png)
+* A Movies SPA that consumes data from www.theweatherapi.com , delivering data to final user using React and styling the views with CSS Styled component, adding logic to SearchBar component to allow users search for specific cities.
+
 
 
 
