@@ -65,7 +65,7 @@ Play games online! :
 
 https://www.youtube.com/watch?v=HYay9mN7bBE
 
-Here, been Clan leader at faction style Good vs Evil Lineage2 Server
+Here, been MTK Clan leader at faction style Good vs Evil Lineage2 Server, where i had to keep the clan togheter, motivated and focused with the same objective, and mainly comunicated; We where 25+ players from diferent nationalities: Ucranians, Russians, North americans, Colombians, Venezuelans, Germans & Argentinians
 
 https://www.youtube.com/watch?v=yPQ01d0OX24
 
