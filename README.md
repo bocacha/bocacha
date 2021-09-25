@@ -43,6 +43,7 @@ HTML, CSS, Less, Styled components, NPM, NodeJS, JSON, Ajax, Modules, React, Cla
 ![image](https://user-images.githubusercontent.com/82456534/134712568-f9c76cec-77d9-4657-b94b-a4f908656ac9.png)
 
 Dogs Parade is a Single Page Application, builded to deliver in your screen more than 170 Dogs razes, through an intuitive and friendly User interface. You will be able to consult every Raze Name, Image, Height, Weight, Life expectation and Raze specific behaviour characteristics, being able to filter / order your queries. You can also create your own Dog/Raze! Just be sure to have your image ready to upload.
+You can check the App here: https://pi-dogs-8c9kpszuo-bocacha.vercel.app/
 
 Technical Description:
 
