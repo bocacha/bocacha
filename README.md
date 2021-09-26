@@ -53,21 +53,18 @@ Dogs Parade was build developing a Server in Express, wich mount and configure a
 
 Ride & repair motorcycles!
 
-![image](https://user-images.githubusercontent.com/82456534/134721155-a2f72c3c-b662-498a-b216-a16854b756b3.png)![image](https://user-images.githubusercontent.com/82456534/134721232-97821086-a1ab-4843-a45b-51b5890013ec.png)![image](https://user-images.githubusercontent.com/82456534/134721268-9e1abb95-a465-4be9-ac07-8d3d7f13dd5b.png)![image](https://user-images.githubusercontent.com/82456534/134721440-07d85f08-17e9-4c8e-b40d-e915c4632a41.png) ![image](https://user-images.githubusercontent.com/82456534/134721491-30abd0de-8fc0-4897-add6-8c485e98c713.png)
+![image](https://user-images.githubusercontent.com/82456534/134804182-e8a8863c-01cf-4d08-a1cb-0685259cbd68.png)![image](https://user-images.githubusercontent.com/82456534/134804188-f2f48588-36fa-420f-87a0-9b6548657854.png)![image](https://user-images.githubusercontent.com/82456534/134804197-37f5772b-feee-4192-88eb-326d4f8fa49c.png)![image](https://user-images.githubusercontent.com/82456534/134804204-598462f2-6c64-4b80-96bb-3f729c4361ce.png)![image](https://user-images.githubusercontent.com/82456534/134804215-45d224ed-d0fa-460b-9abd-202e6171f47e.png)
 
 https://www.youtube.com/watch?v=yxv-6CdGWPA
 
-
-
-
 Fishing!
 
-![image](https://user-images.githubusercontent.com/82456534/134721351-a368a5a8-2d1d-4c63-a4ce-d2bd382ba20b.png)
-
+![image](https://user-images.githubusercontent.com/82456534/134804167-46eff99c-754d-4910-9698-c3bff7507be7.png)
 
 Draw Cartoons!
 
-![image](https://user-images.githubusercontent.com/82456534/134721579-09423d53-5354-4b60-88a8-2c468cb86dfb.png)![image](https://user-images.githubusercontent.com/82456534/134721609-a892b91b-b438-4fe8-8294-8c5d39d52bac.png)![image](https://user-images.githubusercontent.com/82456534/134721651-ed289a0f-8fd5-4d09-8633-ed5402120d22.png)![image](https://user-images.githubusercontent.com/82456534/134721682-ec821005-0182-43c1-aa64-744f8244b6ec.png)
+![image](https://user-images.githubusercontent.com/82456534/134804115-8d90ea38-523a-40df-b913-eeb7415334e8.png)![image](https://user-images.githubusercontent.com/82456534/134804123-ed8b13ba-b7aa-445e-92f6-6a74557914c6.png)![image](https://user-images.githubusercontent.com/82456534/134804144-d7205d5c-a38f-4532-94f5-289421f1b872.png)![image](https://user-images.githubusercontent.com/82456534/134804154-7973afa9-ea70-4abc-9b28-5e3cc96e55c4.png)
+
 
 Play games online! :
 
