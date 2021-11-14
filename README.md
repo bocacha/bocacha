@@ -49,6 +49,17 @@ Technical Description:
 
 Dogs Parade was build developing a Server in Express, wich mount and configure a Data base through Sequelize. The stored data is then renderized on the Client side of Dogs Parade making use of React to build the necessary functional components; Then use Redux to set your data ready in your components Global State, and CSS Styled components to bring you a pleasant view.
 
+![VillaTranquila](https://user-images.githubusercontent.com/82456534/141678606-8c3825fd-5015-4f6e-a2cd-d9f47f1bc31e.png)
+
+Villa Tranquila is a SPA builded in Express - Sequelize to create tables & config Database in BackEnd, and React - Redux - Styled Components in FrontEnd. The App also use JWT- NodeJS - NodeMailer -Cloudinary - Bootstrap - Agile methodologies & Versioning with GitHub.
+Developed for HENRY as a final Challenge to Certification. 
+
+https://www.youtube.com/watch?v=32ftLpCOT58
+
+![GRID](https://user-images.githubusercontent.com/82456534/141678706-2517ce03-6ddb-4349-aa8d-2e9e21c2f3f6.png)
+
+COVID-19 API is a SPA builded for NicaSource Challenge, builded in NodeJS - Javascript - React; consumes data from RapidApi/Covid API, gets some logic to load data in a Material UI DataGrid and functionallities in selectors from Continents & Countries.
+
 ###My Hobbies:
 
 Ride & repair motorcycles!
