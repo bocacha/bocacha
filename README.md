@@ -60,6 +60,8 @@ https://www.youtube.com/watch?v=32ftLpCOT58
 
 COVID-19 API is a SPA builded for NicaSource Challenge, builded in NodeJS - Javascript - React; consumes data from RapidApi/Covid API, gets some logic to load data in a Material UI DataGrid and functionallities in selectors from Continents & Countries.
 
+https://covid-19-api-855a9j6po-bocacha.vercel.app/
+
 ###My Hobbies:
 
 Ride & repair motorcycles!
