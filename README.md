@@ -65,7 +65,8 @@ https://covid-19-api-855a9j6po-bocacha.vercel.app/
 
 ![Products](https://user-images.githubusercontent.com/82456534/145115866-b3d61b79-93ff-4e5c-b3de-3da212a9a369.png)
 
-Products is a Challenge Test build with PHP / MySql for ScandiWeb; Still in development to deploy the final product to Heroku ( Site went down )
+Products is a Challenge Test build for ScandiWeb; Config Backend files and logic builded on PHP, stored data managed with MySql. Deployed at 000Webhosting : 
+http://scandiweb-challenge.000webhostapp.com/
 
 
 ###My Hobbies:
