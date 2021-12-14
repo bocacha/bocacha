@@ -69,6 +69,9 @@ Products is a Challenge Test build for ScandiWeb; Config Backend files and logic
 http://scandiweb-challenge.000webhostapp.com/
 
 
+![SCRUM](https://user-images.githubusercontent.com/82456534/146076546-03a33958-de4e-40a5-a26d-1502086b1dbc.png)
+
+
 ###My Hobbies:
 
 Ride & repair motorcycles!
