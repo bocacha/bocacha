@@ -4,7 +4,7 @@ I've start at young age, my parents send me to learn an Computing course back in
 phosphor monitor coding BASIC! I remember to have written a lot of code lines just to see a circle at the screen. But I will never forget 
 the joy of seen that circle become an happy face after adding some more coding.
 So I was start to take some other courses as I grow up: Graphic Designer at IAC, Computer repairment & Networks at ENDICOTT, Database operator &
-Sr VB Programmer at IBM, System Analyst at ESBA, Java 2EE Programmer at UTN and recently Fullstack Developer at HENRY.
+Sr VB Programmer at IBM, System Analyst at ESBA, Java 2EE Programmer at UTN, Fullstack Developer at HENRY and DevOps Engineer at Jalasoft.
 https://martingonzalez.netlify.app/
 
 ### My firsts desktop Developments:
