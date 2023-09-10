@@ -1,6 +1,24 @@
 ## Hello there! 
-I'm Martín González, Argentininan, radicated in Encarnación, Paraguay. Family Father with strong cooperative beheaviour.
+I'm Martín González, Argentininan, radicated in Encarnación, Paraguay. Family Father with strong cooperative behaviour.
 
+I like the unique feeling that it gives me solving certain tasks or troubleshooting problems. That's why I have been focus on challenging environments where I
+can contribute with my knowledge, acquire new ones and share the experience with the Team.
+I can Develop software, Web pages in both Back and Front End, Surveys, Implementation and Commissioning Logical Process, make the related
+Documentation and planning workflow, implement Automation process, Continuous Integration & Continuous Deployment tasks making use of Agile methodologies, and 
+perform ETL procedures on Azure Data Factories.
+
+<p align="center">
+  <img src="https://github.com/bocacha/bocacha/assets/82456534/58de1c49-4b83-4c26-b59a-b5349701b8a7">
+</p>
+
+<p align="center">
+  <img src="https://github.com/bocacha/bocacha/assets/82456534/aeeb1d89-c2fe-4cfd-9724-ed078971bcae" width="800">
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/82456534/146076546-03a33958-de4e-40a5-a26d-1502086b1dbc.png"
+</p>
+  
 https://martingonzalez.netlify.app/
 
 ### My firsts desktop Developments:
@@ -27,18 +45,24 @@ to client use time and perform cash flows & payments. It was also builded in Vis
 Having completed HENRY Labs course, a very intensive learning consisting in 800+ hours of coding & Pair-Programming; I was trained in Algorithms, Data structures, 
 HTML, CSS, Less, Styled components, NPM, NodeJS, JSON, Ajax, Modules, React, Class & Functional components, Form validations, Promisses, Async-await, Redux, Hooks, Express, Sequelize, Git & Scrum; I've was ready to start developing Web SPA's, like: 
 
-![image](https://user-images.githubusercontent.com/82456534/134709936-d90ad867-9583-4787-86b0-abc9af4d5543.png)
+<p align="center">
+  <img src ="https://user-images.githubusercontent.com/82456534/134709936-d90ad867-9583-4787-86b0-abc9af4d5543.png">
+</p>
 * A Movies SPA that consumes data from www.omdbapi.com , delivering data to final user using React and styling the views with CSS Styled component.
 
-
-![image](https://user-images.githubusercontent.com/82456534/134711276-07675fbf-cd9a-4deb-9354-5b120d645b49.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/82456534/134711276-07675fbf-cd9a-4deb-9354-5b120d645b49.png">
+</p>
 * A Movies SPA that consumes data from www.theweatherapi.com , delivering data to final user using React and styling the views with CSS Styled component, adding logic to SearchBar component to allow users search for specific cities.
 
-![image](https://user-images.githubusercontent.com/82456534/134712529-347c826d-ffcc-4514-b461-43ba0fa92bfe.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/82456534/134712529-347c826d-ffcc-4514-b461-43ba0fa92bfe.png">
+</p>
 * Example of Logo-Design, created on line with PIXLR.
 
-![image](https://user-images.githubusercontent.com/82456534/134712568-f9c76cec-77d9-4657-b94b-a4f908656ac9.png)
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/82456534/134712568-f9c76cec-77d9-4657-b94b-a4f908656ac9.png">
+</p>
 Dogs Parade is a Single Page Application, builded to deliver in your screen more than 170 Dogs razes, through an intuitive and friendly User interface. You will be able to consult every Raze Name, Image, Height, Weight, Life expectation and Raze specific behaviour characteristics, being able to filter / order your queries. You can also create your own Dog/Raze! Just be sure to have your image ready to upload.
 You can check the App here: https://pi-dogs-8c9kpszuo-bocacha.vercel.app/
 
@@ -63,9 +87,6 @@ https://covid-19-api-855a9j6po-bocacha.vercel.app/
 
 Products is a Challenge Test build for ScandiWeb; Config Backend files and logic builded on PHP, stored data managed with MySql. Deployed at 000Webhosting : 
 http://scandiweb-challenge.000webhostapp.com/
-
-
-![SCRUM](https://user-images.githubusercontent.com/82456534/146076546-03a33958-de4e-40a5-a26d-1502086b1dbc.png)
 
 
 ###My Hobbies:
