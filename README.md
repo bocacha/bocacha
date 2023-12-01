@@ -15,6 +15,10 @@ Documentation and planning workflow, implement Automation process, Continuous In
 </p>
 
 <p align="center">
+  <img src="https://github.com/bocacha/bocacha/assets/82456534/c4270492-cd4e-414c-aab7-381f2f7bfc75" width="600">
+</p>
+
+<p align="center">
   <img src="https://github.com/bocacha/bocacha/assets/82456534/600eb601-724c-40b0-88e2-df1800dd8291">
 </p>
 <p align="center">
