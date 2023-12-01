@@ -4,8 +4,7 @@ I'm Martín González, Argentininan, radicated in Encarnación, Paraguay. Family
 I like the unique feeling that it gives me solving certain tasks or troubleshooting problems. That's why I have been focus on challenging environments where I
 can contribute with my knowledge, acquire new ones and share the experience with the Team.
 I can Develop software, Web pages in both Back and Front End, Surveys, Implementation and Commissioning Logical Process, make the related
-Documentation and planning workflow, implement Automation process, Continuous Integration & Continuous Deployment tasks making use of Agile methodologies, and 
-perform ETL procedures on Azure Data Factories.
+Documentation and planning workflow, implement Automation process, Continuous Integration, Continuous Deployment & Delivery tasks making use of Agile methodologies and DevSecOps features, and perform ETL procedures on Azure Data Factories.
 
 <p align="center">
   <img src="https://github.com/bocacha/bocacha/assets/82456534/58de1c49-4b83-4c26-b59a-b5349701b8a7">
